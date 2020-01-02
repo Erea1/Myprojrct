@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_事件", "011_事件\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_观察者模式", "012_观察者模式\012_观察者模式.csproj", "{BD811A68-4CED-4B40-BC47-A75470078D66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_LINQ", "013_LINQ\013_LINQ.csproj", "{C325BB8C-F033-475F-AD81-6E276FBB3A3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{BD811A68-4CED-4B40-BC47-A75470078D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD811A68-4CED-4B40-BC47-A75470078D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD811A68-4CED-4B40-BC47-A75470078D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C325BB8C-F033-475F-AD81-6E276FBB3A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C325BB8C-F033-475F-AD81-6E276FBB3A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C325BB8C-F033-475F-AD81-6E276FBB3A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C325BB8C-F033-475F-AD81-6E276FBB3A3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
