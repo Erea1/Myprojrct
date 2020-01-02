@@ -1,0 +1,7 @@
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\bin\Debug\01字符串.exe.config
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\bin\Debug\01字符串.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\bin\Debug\01字符串.pdb
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\obj\Debug\01字符串.csprojAssemblyReference.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\obj\Debug\01字符串.csproj.CoreCompileInputs.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\obj\Debug\01字符串.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\01字符串\obj\Debug\01字符串.pdb

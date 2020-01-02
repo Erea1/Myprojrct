@@ -1,0 +1,7 @@
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\bin\Debug\03_正则表达式.exe.config
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\bin\Debug\03_正则表达式.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\bin\Debug\03_正则表达式.pdb
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\obj\Debug\03_正则表达式.csprojAssemblyReference.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\obj\Debug\03_正则表达式.csproj.CoreCompileInputs.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\obj\Debug\03_正则表达式.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\03_正则表达式\obj\Debug\03_正则表达式.pdb

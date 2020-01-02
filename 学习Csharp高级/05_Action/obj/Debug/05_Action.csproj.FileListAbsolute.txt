@@ -1,0 +1,7 @@
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\bin\Debug\05_Action.exe.config
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\bin\Debug\05_Action.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\bin\Debug\05_Action.pdb
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\obj\Debug\05_Action.csprojAssemblyReference.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\obj\Debug\05_Action.csproj.CoreCompileInputs.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\obj\Debug\05_Action.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\05_Action\obj\Debug\05_Action.pdb

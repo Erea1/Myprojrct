@@ -1,0 +1,7 @@
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\bin\Debug\012_观察者模式.exe.config
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\bin\Debug\012_观察者模式.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\bin\Debug\012_观察者模式.pdb
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\obj\Debug\012_观察者模式.csprojAssemblyReference.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\obj\Debug\012_观察者模式.csproj.CoreCompileInputs.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\obj\Debug\012_观察者模式.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\012_观察者模式\obj\Debug\012_观察者模式.pdb

@@ -1,0 +1,6 @@
+C:\Users\Erea\Desktop\Study\学习Csharp高级\08_多播委托\bin\Debug\08_多播委托.exe.config
+C:\Users\Erea\Desktop\Study\学习Csharp高级\08_多播委托\bin\Debug\08_多播委托.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\08_多播委托\bin\Debug\08_多播委托.pdb
+C:\Users\Erea\Desktop\Study\学习Csharp高级\08_多播委托\obj\Debug\08_多播委托.csproj.CoreCompileInputs.cache
+C:\Users\Erea\Desktop\Study\学习Csharp高级\08_多播委托\obj\Debug\08_多播委托.exe
+C:\Users\Erea\Desktop\Study\学习Csharp高级\08_多播委托\obj\Debug\08_多播委托.pdb
