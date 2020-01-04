@@ -16,7 +16,7 @@ namespace _012_观察者模式
         {
             this.name = name;
             this.color = color;
-            cat.catCome += this.RunAway;
+            cat.CatCome += this.RunAway;
         }
 
         public void RunAway()

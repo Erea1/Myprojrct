@@ -23,8 +23,10 @@ namespace _04_委托
             //2. 使用委托类型作为方法的参数
             PrintString methood = Methood1;
             PrintStr(methood);
-            methood = Methood2;
-            PrintStr(methood);
+            methood += Methood2;
+            PrintString method = methood;
+
+            PrintStr(method);
 
 
             Console.ReadKey();

@@ -5,3 +5,10 @@ C:\Users\Erea\Desktop\Study\学习Csharp高级\04_委托\obj\Debug\04_委托.csp
 C:\Users\Erea\Desktop\Study\学习Csharp高级\04_委托\obj\Debug\04_委托.csproj.CoreCompileInputs.cache
 C:\Users\Erea\Desktop\Study\学习Csharp高级\04_委托\obj\Debug\04_委托.exe
 C:\Users\Erea\Desktop\Study\学习Csharp高级\04_委托\obj\Debug\04_委托.pdb
+E:\Projects\gittest\学习Csharp高级\04_委托\bin\Debug\04_委托.exe.config
+E:\Projects\gittest\学习Csharp高级\04_委托\bin\Debug\04_委托.exe
+E:\Projects\gittest\学习Csharp高级\04_委托\bin\Debug\04_委托.pdb
+E:\Projects\gittest\学习Csharp高级\04_委托\obj\Debug\04_委托.csprojAssemblyReference.cache
+E:\Projects\gittest\学习Csharp高级\04_委托\obj\Debug\04_委托.csproj.CoreCompileInputs.cache
+E:\Projects\gittest\学习Csharp高级\04_委托\obj\Debug\04_委托.exe
+E:\Projects\gittest\学习Csharp高级\04_委托\obj\Debug\04_委托.pdb

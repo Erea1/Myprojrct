@@ -21,9 +21,8 @@ namespace _012_观察者模式
         public void CatComing()
         {
             Console.WriteLine(color+"的猫"+name+"过来了");
-            if(catCome!=null)
-            catCome();
+            CatCome?.Invoke();
         }
-        public event Action catCome;//声明一个事件 event只能在类的内部调用
+        public event Action CatCome;//声明一个事件 event只能在类的内部调用
     }
 }

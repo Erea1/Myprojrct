@@ -1,0 +1,7 @@
+E:\Projects\gittest\学习Csharp高级\_015_特性\bin\Debug\_015_特性.exe.config
+E:\Projects\gittest\学习Csharp高级\_015_特性\bin\Debug\_015_特性.exe
+E:\Projects\gittest\学习Csharp高级\_015_特性\bin\Debug\_015_特性.pdb
+E:\Projects\gittest\学习Csharp高级\_015_特性\obj\Debug\_015_特性.csproj.CoreCompileInputs.cache
+E:\Projects\gittest\学习Csharp高级\_015_特性\obj\Debug\_015_特性.exe
+E:\Projects\gittest\学习Csharp高级\_015_特性\obj\Debug\_015_特性.pdb
+E:\Projects\gittest\学习Csharp高级\_015_特性\obj\Debug\_015_特性.csprojAssemblyReference.cache

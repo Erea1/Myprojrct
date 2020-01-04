@@ -1,0 +1,7 @@
+E:\Projects\gittest\学习Csharp高级\014_反射\bin\Debug\014_反射.exe.config
+E:\Projects\gittest\学习Csharp高级\014_反射\bin\Debug\014_反射.exe
+E:\Projects\gittest\学习Csharp高级\014_反射\bin\Debug\014_反射.pdb
+E:\Projects\gittest\学习Csharp高级\014_反射\obj\Debug\014_反射.csprojAssemblyReference.cache
+E:\Projects\gittest\学习Csharp高级\014_反射\obj\Debug\014_反射.csproj.CoreCompileInputs.cache
+E:\Projects\gittest\学习Csharp高级\014_反射\obj\Debug\014_反射.exe
+E:\Projects\gittest\学习Csharp高级\014_反射\obj\Debug\014_反射.pdb
