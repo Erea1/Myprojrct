@@ -1,0 +1,7 @@
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\bin\Debug\Socket编程_TCP_客户端.exe.config
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\bin\Debug\Socket编程_TCP_客户端.exe
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\bin\Debug\Socket编程_TCP_客户端.pdb
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\obj\Debug\Socket编程_TCP_客户端.csprojAssemblyReference.cache
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\obj\Debug\Socket编程_TCP_客户端.csproj.CoreCompileInputs.cache
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\obj\Debug\Socket编程_TCP_客户端.exe
+E:\Projects\gittest\Socket编程_TCP_客户端\Socket编程_TCP_客户端\obj\Debug\Socket编程_TCP_客户端.pdb
