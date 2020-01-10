@@ -50,6 +50,10 @@ namespace _016_线程和进程
                 Console.WriteLine(res+"在lambda表达式中取得");
 
             }, null);
+
+
+
+
             Console.ReadKey();
 
             //移动文件 code
