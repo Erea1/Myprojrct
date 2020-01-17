@@ -1,0 +1,7 @@
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\bin\Debug\_025文件属性查看.exe.config
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\bin\Debug\_025文件属性查看.exe
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\bin\Debug\_025文件属性查看.pdb
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\obj\Debug\_025文件属性查看.csprojAssemblyReference.cache
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\obj\Debug\_025文件属性查看.csproj.CoreCompileInputs.cache
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\obj\Debug\_025文件属性查看.exe
+E:\Projects\GitProject\学习Csharp高级\_025文件属性查看\obj\Debug\_025文件属性查看.pdb

@@ -1,0 +1,8 @@
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\bin\Debug\_031xml文档解析.exe.config
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\bin\Debug\_031xml文档解析.exe
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\bin\Debug\_031xml文档解析.pdb
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\obj\Debug\_031xml文档解析.csprojAssemblyReference.cache
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\obj\Debug\_031xml文档解析.csproj.CoreCompileInputs.cache
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\obj\Debug\_031xml文档解析.exe
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\obj\Debug\_031xml文档解析.pdb
+E:\Projects\GitProject\学习Csharp高级\_031xml文档解析\bin\Debug\xml技能信息.txt

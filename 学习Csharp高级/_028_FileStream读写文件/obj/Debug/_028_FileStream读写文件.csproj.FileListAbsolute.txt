@@ -1,0 +1,7 @@
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\bin\Debug\TextFile1.txt
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\bin\Debug\_028_FileStream读写文件.exe.config
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\bin\Debug\_028_FileStream读写文件.exe
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\bin\Debug\_028_FileStream读写文件.pdb
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\obj\Debug\_028_FileStream读写文件.csproj.CoreCompileInputs.cache
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\obj\Debug\_028_FileStream读写文件.exe
+E:\Projects\GitProject\学习Csharp高级\_028_FileStream读写文件\obj\Debug\_028_FileStream读写文件.pdb
