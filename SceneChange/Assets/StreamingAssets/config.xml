@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+  <configInfo>
+    <!--配置文件说明：配置焊接场景选择 第一个是场景名 第二个是按扭上显示的中文 第三个0代表不可以进入 1代表可以进入 -->
+	
+	<scene>changjing1/场景1/1</scene>
+	<scene>changjing1/场景2/0</scene>
+	<scene>changjing1/场景3/1</scene>
+	<scene>changjing1/场景4/0</scene>
+	<scene>changjing1/场景5/0</scene>
+	<scene>changjing1/场景6/0</scene>
+
+	
+	
+		
+	
+	
+  </configInfo>
+
+ 
+</configuration>
