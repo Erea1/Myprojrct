@@ -10,6 +10,7 @@
 
 namespace VRCTP
 {
+    using QFramework;
     using System;
     using System.Collections;
     using System.Collections.Generic;
@@ -35,7 +36,12 @@ namespace VRCTP
             mData = uiData as GuidancePanelData ?? new GuidancePanelData();
             // please add init code here
         }
-        
+        protected override void RegisterUIEvent()
+        {
+            CloseButton.GetComponent<Button>().onClick.AddListener(() => {
+                UIMgr.OpenPanel("EquippedPanel");
+            });
+        }
         protected override void OnOpen(QFramework.IUIData uiData)
         {
         }

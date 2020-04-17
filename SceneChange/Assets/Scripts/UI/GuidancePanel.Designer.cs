@@ -18,11 +18,14 @@ namespace VRCTP
     using UnityEngine.UI;
     
     
-    // Generate Id:4fea2206-b212-4ffb-a87b-906e39a3e258
+    // Generate Id:b93c24f0-2958-4d62-9206-f2d530370b7d
     public partial class GuidancePanel
     {
         
         public const string NAME = "GuidancePanel";
+        
+        [SerializeField()]
+        public CloseButton CloseButton;
         
         private GuidancePanelData mPrivateData = null;
         
@@ -41,6 +44,7 @@ namespace VRCTP
         
         protected override void ClearUIComponents()
         {
+            CloseButton = null;
             mData = null;
         }
     }

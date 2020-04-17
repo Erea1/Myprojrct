@@ -89,8 +89,9 @@ GameObject:
   - component: {fileID: 222712735782368224}
   - component: {fileID: 114743064585575074}
   - component: {fileID: 114871292316666080}
+  - component: {fileID: 114966735638123640}
   m_Layer: 0
-  m_Name: Button
+  m_Name: CloseButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -251,6 +252,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mSubPanelInfos: []
+  CloseButton: {fileID: 114966735638123640}
 --- !u!114 &114743064585575074
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -319,6 +321,17 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &114966735638123640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1725218181664170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd0e59cdfff6441428d127b5689a3cf2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!222 &222270543337482328
 CanvasRenderer:
   m_ObjectHideFlags: 1

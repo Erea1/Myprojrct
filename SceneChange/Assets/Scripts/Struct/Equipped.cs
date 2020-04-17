@@ -13,12 +13,14 @@ using UnityEngine;
 public struct Equipped
 {
     public string name;//装备名字
+    public string sprite;//英文名/贴图名
     public bool isRightSult;//装备是否是当前防护的正确装备
     public string info;//装备详细信息
 
-    public Equipped(string _name,bool _isRight,string _info)
+    public Equipped(string _name,string _sprite,string _info, bool _isRight)
     {
         name = _name;
+        sprite = _sprite;
         isRightSult = _isRight;
         info = _info;
     }

@@ -18,11 +18,14 @@ namespace VRCTP
     using UnityEngine.UI;
     
     
-    // Generate Id:e3f3573c-a176-4c4d-a346-1814c254b018
+    // Generate Id:ead06020-87a8-4140-8db8-7c361222f4b8
     public partial class EquippedPanel
     {
         
         public const string NAME = "EquippedPanel";
+        
+        [SerializeField()]
+        public EquippedParent EquippedParent;
         
         private EquippedPanelData mPrivateData = null;
         
@@ -41,6 +44,7 @@ namespace VRCTP
         
         protected override void ClearUIComponents()
         {
+            EquippedParent = null;
             mData = null;
         }
     }
