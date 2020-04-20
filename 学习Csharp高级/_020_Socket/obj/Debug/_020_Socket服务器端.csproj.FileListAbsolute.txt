@@ -1,7 +1,0 @@
-E:\Projects\gittest\学习Csharp高级\_020_Socket\bin\Debug\_020_Socket.exe.config
-E:\Projects\gittest\学习Csharp高级\_020_Socket\bin\Debug\_020_Socket.exe
-E:\Projects\gittest\学习Csharp高级\_020_Socket\bin\Debug\_020_Socket.pdb
-E:\Projects\gittest\学习Csharp高级\_020_Socket\obj\Debug\_020_Socket服务器端.csprojAssemblyReference.cache
-E:\Projects\gittest\学习Csharp高级\_020_Socket\obj\Debug\_020_Socket服务器端.csproj.CoreCompileInputs.cache
-E:\Projects\gittest\学习Csharp高级\_020_Socket\obj\Debug\_020_Socket.exe
-E:\Projects\gittest\学习Csharp高级\_020_Socket\obj\Debug\_020_Socket.pdb

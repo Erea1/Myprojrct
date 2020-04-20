@@ -1,7 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\bin\Debug\017_Thread发起线程.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\bin\Debug\017_Thread发起线程.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\bin\Debug\017_Thread发起线程.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\obj\Debug\017_Thread发起线程.csprojAssemblyReference.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\obj\Debug\017_Thread发起线程.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\obj\Debug\017_Thread发起线程.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\017_Thread发起线程\obj\Debug\017_Thread发起线程.pdb

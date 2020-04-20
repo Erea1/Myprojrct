@@ -1,6 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\019_任务\bin\Debug\019_任务.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\019_任务\bin\Debug\019_任务.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\019_任务\bin\Debug\019_任务.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\019_任务\obj\Debug\019_任务.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\019_任务\obj\Debug\019_任务.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\019_任务\obj\Debug\019_任务.pdb

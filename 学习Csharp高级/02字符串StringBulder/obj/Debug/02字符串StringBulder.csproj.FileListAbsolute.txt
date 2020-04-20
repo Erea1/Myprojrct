@@ -1,7 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\bin\Debug\02字符串StringBulder.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\bin\Debug\02字符串StringBulder.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\bin\Debug\02字符串StringBulder.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\obj\Debug\02字符串StringBulder.csprojAssemblyReference.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\obj\Debug\02字符串StringBulder.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\obj\Debug\02字符串StringBulder.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\02字符串StringBulder\obj\Debug\02字符串StringBulder.pdb

@@ -1,7 +1,0 @@
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\bin\Debug\_016_线程和进程.exe.config
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\bin\Debug\_016_线程和进程.exe
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\bin\Debug\_016_线程和进程.pdb
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\obj\Debug\_016_线程和进程.csprojAssemblyReference.cache
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\obj\Debug\_016_线程和进程.csproj.CoreCompileInputs.cache
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\obj\Debug\_016_线程和进程.exe
-E:\Projects\gittest\学习Csharp高级\_016_线程和进程\obj\Debug\_016_线程和进程.pdb

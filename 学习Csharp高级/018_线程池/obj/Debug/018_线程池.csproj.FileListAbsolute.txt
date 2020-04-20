@@ -1,6 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\018_线程池\bin\Debug\018_线程池.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\018_线程池\bin\Debug\018_线程池.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\018_线程池\bin\Debug\018_线程池.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\018_线程池\obj\Debug\018_线程池.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\018_线程池\obj\Debug\018_线程池.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\018_线程池\obj\Debug\018_线程池.pdb

@@ -1,8 +1,0 @@
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\bin\Debug\装备信息.xls
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\bin\Debug\_033_Excel操作.exe.config
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\bin\Debug\_033_Excel操作.exe
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\bin\Debug\_033_Excel操作.pdb
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\obj\Debug\_033_Excel操作.csprojAssemblyReference.cache
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\obj\Debug\_033_Excel操作.csproj.CoreCompileInputs.cache
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\obj\Debug\_033_Excel操作.exe
-E:\Projects\GitProject\学习Csharp高级\_033_Excel操作\obj\Debug\_033_Excel操作.pdb

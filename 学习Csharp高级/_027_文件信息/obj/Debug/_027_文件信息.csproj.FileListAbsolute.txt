@@ -1,8 +1,0 @@
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\bin\Debug\TextFile.txt
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\bin\Debug\_027_文件信息.exe.config
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\bin\Debug\_027_文件信息.exe
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\bin\Debug\_027_文件信息.pdb
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\obj\Debug\_027_文件信息.csproj.CoreCompileInputs.cache
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\obj\Debug\_027_文件信息.exe
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\obj\Debug\_027_文件信息.pdb
-E:\Projects\GitProject\学习Csharp高级\_027_文件信息\bin\Debug\2019_08_22_14_46.45.bmp

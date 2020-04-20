@@ -1,7 +1,0 @@
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\bin\Debug\_测试数组转化.exe.config
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\bin\Debug\_测试数组转化.exe
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\bin\Debug\_测试数组转化.pdb
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\obj\Debug\_测试数组转化.csprojAssemblyReference.cache
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\obj\Debug\_测试数组转化.csproj.CoreCompileInputs.cache
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\obj\Debug\_测试数组转化.exe
-E:\Projects\GitProject\学习Csharp高级\_测试数组转化\obj\Debug\_测试数组转化.pdb

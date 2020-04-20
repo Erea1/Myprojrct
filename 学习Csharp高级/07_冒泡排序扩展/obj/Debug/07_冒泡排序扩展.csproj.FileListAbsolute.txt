@@ -1,7 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\bin\Debug\07_冒泡排序扩展.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\bin\Debug\07_冒泡排序扩展.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\bin\Debug\07_冒泡排序扩展.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\obj\Debug\07_冒泡排序扩展.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\obj\Debug\07_冒泡排序扩展.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\obj\Debug\07_冒泡排序扩展.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\07_冒泡排序扩展\obj\Debug\07_冒泡排序扩展.csprojAssemblyReference.cache

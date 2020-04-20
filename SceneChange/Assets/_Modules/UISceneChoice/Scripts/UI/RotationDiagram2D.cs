@@ -1,6 +1,6 @@
 ﻿/*
-*Modify Data:2019-09-08
-*Modifier:杨成超
+*Modify Data:2020-04-15
+*Modifier:李智
 *Modify Content: -用UIGU2D图片模拟3D物体的轮转功能
 */
 using System.Collections.Generic;

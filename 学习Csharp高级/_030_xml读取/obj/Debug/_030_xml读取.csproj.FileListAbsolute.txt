@@ -1,8 +1,0 @@
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\bin\Debug\skillinfo.txt
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\bin\Debug\_030_xml读取.exe.config
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\bin\Debug\_030_xml读取.exe
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\bin\Debug\_030_xml读取.pdb
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\obj\Debug\_030_xml读取.csprojAssemblyReference.cache
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\obj\Debug\_030_xml读取.csproj.CoreCompileInputs.cache
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\obj\Debug\_030_xml读取.exe
-E:\Projects\GitProject\学习Csharp高级\_030_xml读取\obj\Debug\_030_xml读取.pdb

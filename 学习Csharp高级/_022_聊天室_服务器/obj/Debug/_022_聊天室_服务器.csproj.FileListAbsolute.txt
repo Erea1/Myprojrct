@@ -1,7 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\bin\Debug\_022_聊天室_服务器.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\bin\Debug\_022_聊天室_服务器.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\bin\Debug\_022_聊天室_服务器.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\obj\Debug\_022_聊天室_服务器.csprojAssemblyReference.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\obj\Debug\_022_聊天室_服务器.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\obj\Debug\_022_聊天室_服务器.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\_022_聊天室_服务器\obj\Debug\_022_聊天室_服务器.pdb

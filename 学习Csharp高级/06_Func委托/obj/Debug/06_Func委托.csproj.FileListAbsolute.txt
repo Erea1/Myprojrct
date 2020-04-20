@@ -1,6 +1,0 @@
-C:\Users\Erea\Desktop\Study\学习Csharp高级\06_Func委托\bin\Debug\06_Func委托.exe.config
-C:\Users\Erea\Desktop\Study\学习Csharp高级\06_Func委托\bin\Debug\06_Func委托.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\06_Func委托\bin\Debug\06_Func委托.pdb
-C:\Users\Erea\Desktop\Study\学习Csharp高级\06_Func委托\obj\Debug\06_Func委托.csproj.CoreCompileInputs.cache
-C:\Users\Erea\Desktop\Study\学习Csharp高级\06_Func委托\obj\Debug\06_Func委托.exe
-C:\Users\Erea\Desktop\Study\学习Csharp高级\06_Func委托\obj\Debug\06_Func委托.pdb
