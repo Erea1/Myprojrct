@@ -1,3 +1,12 @@
 /SceneChange/Library
 
 /SceneChange/*.csproj
+/SceneChange/*.unityproj
+/SceneChange/*.sln
+/SceneChange/*.suo
+/SceneChange/*.user
+/SceneChange/*.userprefs
+/SceneChange/*.pidb
+/SceneChange/*.txt
+/SceneChange/*.booproj
+/SceneChange/Temp
