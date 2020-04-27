@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+  <configInfo>
+    <!--配置文件说明：配置焊接场景选择 第一个是场景名 第二个是按扭上显示的中文 第三个0代表不可以进入 1代表可以进入 -->
+	
+	<scene>changjing1/场景1/1</scene>
+	<scene>changjing1/场景2/0</scene>
+	<scene>changjing1/场景3/1</scene>
+	<scene>changjing1/场景4/0</scene>
+	<scene>changjing1/场景5/0</scene>
+	<scene>changjing1/场景6/0</scene>
+	 <!--装备信息 -->
+	<equippde>头盔/toukui/安全帽是指对人头部受坠落物及其他特定因素引起的伤害起防护作用的帽子。安全帽由帽壳、帽衬、下颏带及附件等组成/profession</equippde>
+	<equippde>护目镜/humujing/防护眼镜就是一种滤光镜，可以改变透过光强和光谱。避免辐射光对眼睛造成伤害，最有效和最常用的方法是配戴防护眼镜。/profession</equippde>
+	<equippde>绝缘手套/jueyuanshoutao/绝缘手套是一种用橡胶制成的五指手套，主要用于电工作业，具有保护手或人体的作用。可防电，防水、耐酸碱、防化、防油。/profession</equippde>
+	<equippde>绝缘靴/jueyuanxue/高压绝缘靴，主要适用于高压电力设备方面电工作业时作为辅助安全用具/profession</equippde>
+	<equippde>帽子/maozi/夏季遮阳的帽子。常用布、草、塑料等制成。太阳帽具有阴天遮风，晴天遮阳的功能，是男女老少不可少的一种日常生活用品。/profession1</equippde>
+	<equippde>墨镜/mojing/墨镜是一种眼镜，不仅可以用来耍酷，更可以利用它的遮光性使你从表面上来看可以直视一切。同时它还是一种能够阻挡太阳光线的眼镜。/profession1</equippde>
+	<equippde>鞋子/xiezi/日常穿的鞋子/profession1</equippde>
+	
+
+	
+	
+		
+	
+	
+  </configInfo>
+
+ 
+</configuration>
