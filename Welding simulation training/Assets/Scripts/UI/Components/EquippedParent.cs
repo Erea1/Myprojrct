@@ -69,7 +69,7 @@ namespace VRCTP
                 if (equipped.isRightSult)
                     rightEquippe.Add(equipped);
                 //creat装备
-                //CreatItem(equipped);
+                CreatItem(equipped);
                 
             }
 
@@ -78,12 +78,12 @@ namespace VRCTP
 
         }
 
-        public  List<Equipped> ListRandom(List<Equipped> newlist)
-        {
-            Random ran = new Random();
-            List<Equipped> newList = new List<Equipped>();
+        //public  List<Equipped> ListRandom(List<Equipped> newlist)
+        //{
+        //    Random ran = new Random();
+        //    List<Equipped> newList = new List<Equipped>();
 
-        }
+        //}
 
 
         //生成装备按钮
