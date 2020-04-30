@@ -268,7 +268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4243670663197122}
   m_Layer: 10
-  m_Name: yanjing
+  m_Name: mojing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -332,7 +332,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4567554065052188}
   m_Layer: 10
-  m_Name: jueyunashoutao
+  m_Name: jueyuanshoutao
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -413,7 +413,7 @@ GameObject:
   - component: {fileID: 4798071247173114}
   - component: {fileID: 114066252266173306}
   m_Layer: 10
-  m_Name: jueyuanxue (1)
+  m_Name: HumanModle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1973,3 +1973,4 @@ MonoBehaviour:
   - {fileID: 4061314521979566}
   - {fileID: 4727371919762270}
   - {fileID: 4066984792371670}
+  equippedParent: {fileID: 0}

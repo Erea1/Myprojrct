@@ -46,8 +46,10 @@ namespace VRCTP
         }
         private void Start()
         {
+            
             xmlPath = Application.streamingAssetsPath + "/config.xml";
-            modleControl = GameObject.Find("Human").GetComponent<ModleControl>();
+            modleControl = Instantiate(Resources.Load<GameObject>("Modle/HumanModle")).GetComponent<ModleControl>();
+                
            
             guideText.text = Xml.ReadElement(xmlPath, "configuration/configInfo/professionInfo/guidetext");
             
