@@ -18,7 +18,7 @@ namespace VRCTP
     using UnityEngine.UI;
     
     
-    // Generate Id:29ee8f50-287b-4de3-83ee-dd1c715dcb9d
+    // Generate Id:7e6e1b3c-c64c-4a02-b87d-f49060bece69
     public partial class EquippedPanel
     {
         
@@ -28,7 +28,7 @@ namespace VRCTP
         public EquippedParent EquippedParent;
         
         [SerializeField()]
-        public CheckButton CheckButton;
+        public GuidancePanel GuidancePanel;
         
         private EquippedPanelData mPrivateData = null;
         
@@ -48,7 +48,7 @@ namespace VRCTP
         protected override void ClearUIComponents()
         {
             EquippedParent = null;
-            CheckButton = null;
+            GuidancePanel = null;
             mData = null;
         }
     }
